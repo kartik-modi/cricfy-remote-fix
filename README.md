@@ -1,6 +1,7 @@
 # CRICFy Remote Fix
 
 A tiny Android TV / Fire TV helper that makes **CRICFy TV** usable with a normal TV remote.
+App link : https://cricify.org/download3/
 
 CRICFy TV has two screens a remote cannot use:
 
