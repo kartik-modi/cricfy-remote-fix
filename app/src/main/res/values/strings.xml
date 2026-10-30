@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CRICFy Remote Fix</string>
+    <string name="service_name">CRICFy Remote Fix</string>
+    <string name="service_description">Makes CRICFy TV\'s stream list and full-screen button work with a TV remote. Reads only CRICFy TV\'s screens and has no internet access.</string>
+</resources>
